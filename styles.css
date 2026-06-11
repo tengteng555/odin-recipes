@@ -1,0 +1,14 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  border: 2px solid black;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 50px;
+  margin: 30px;
+  background-color: gray;
+}
